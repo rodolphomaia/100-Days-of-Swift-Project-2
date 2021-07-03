@@ -1,2 +1,2 @@
-# 100-Days-of-Swift-Project-2
- 
+# 100 Days of Swift
+## Project 2
